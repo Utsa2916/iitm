@@ -27,5 +27,4 @@ if __name__=='__main__': #run this app only when invoked
     app.run() 
     
     
-#Note: when we run this ap p module, it will create a proxy object as current_app which we can use later in other files and it will also avoid circular import error.
-#Mapping happens at this place
+#after running the code, in the browser, do ...5000/index for the project to run
